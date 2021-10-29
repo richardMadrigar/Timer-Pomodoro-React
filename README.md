@@ -39,7 +39,7 @@ O Timer.Pomodoro é um app que une a técnica de Pomodoro com a realização de 
 ---
 
 ## 🔖 Layout
-### Você pode visualizar o projeto através [desse link](https://timer-pomodoro-next-js-4eq42om6f-richardmadrigar.vercel.app/). 
+### Você pode visualizar o projeto através [desse link](https://timer-pomodoro-react.vercel.app/). 
 <br>
 
 ---
